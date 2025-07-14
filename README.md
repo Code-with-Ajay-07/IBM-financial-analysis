@@ -27,9 +27,9 @@ Key financial ratios, trends, and cash flow insights are visualized with Matplot
 -  Revenue Growth%
 
   ## Trends Find :
-  Revenue trend
-  PRofit margin over time
-  Cashflow breakdown
+  Revenue trend ,
+  ,PRofit margin over time,
+  Cashflow breakdown,
   total assets vs total liabilities
 
   ## OUtput preview:
